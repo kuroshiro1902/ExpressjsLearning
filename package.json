@@ -1,0 +1,29 @@
+{
+  "name": "nodejslearning",
+  "version": "1.0.0",
+  "description": "Learning nodejs and expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuroshiro1902/ExpressjsLearning.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "express",
+    "expressjs",
+    "npm"
+  ],
+  "author": "Jason",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuroshiro1902/ExpressjsLearning/issues"
+  },
+  "homepage": "https://github.com/kuroshiro1902/ExpressjsLearning#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
